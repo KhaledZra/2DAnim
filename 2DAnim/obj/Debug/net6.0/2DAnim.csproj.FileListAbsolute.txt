@@ -1,0 +1,15 @@
+C:\Users\halo_\Desktop\2DAnim\2DAnim\bin\Debug\net6.0\2DAnim.exe
+C:\Users\halo_\Desktop\2DAnim\2DAnim\bin\Debug\net6.0\2DAnim.deps.json
+C:\Users\halo_\Desktop\2DAnim\2DAnim\bin\Debug\net6.0\2DAnim.runtimeconfig.json
+C:\Users\halo_\Desktop\2DAnim\2DAnim\bin\Debug\net6.0\2DAnim.dll
+C:\Users\halo_\Desktop\2DAnim\2DAnim\bin\Debug\net6.0\2DAnim.pdb
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.csproj.AssemblyReference.cache
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.AssemblyInfoInputs.cache
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.AssemblyInfo.cs
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.csproj.CoreCompileInputs.cache
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.dll
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\refint\2DAnim.dll
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.pdb
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\2DAnim.genruntimeconfig.cache
+C:\Users\halo_\Desktop\2DAnim\2DAnim\obj\Debug\net6.0\ref\2DAnim.dll
